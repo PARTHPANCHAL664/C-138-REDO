@@ -32,3 +32,16 @@ h1
     margin-bottom: 28px;
     border-radius: 0;
 }
+
+#footer
+{
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(55, 234, 225);
+    color: rgb(255, 0, 0);
+    height: 27px;
+    font-size: 15px;
+    font-weight: 600;
+}
